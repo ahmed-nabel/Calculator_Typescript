@@ -1,0 +1,82 @@
+body {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.calculator {
+  width: 320px;
+  background-color: #000;
+  border-radius: 40px;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+
+.display {
+  background-color: #000;
+  color: white;
+  font-size: 32px;
+  text-align: right;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  height: 120px;
+  /* overflow-y: auto;         Enables vertical scrolling */
+  overflow-x: hidden;
+  display: flex;
+  /* flex-direction: column;   Stack lines vertically */
+  justify-content: flex-end;
+  word-wrap: break-word;
+  line-height: 1.4;
+}
+
+
+
+.buttons {
+  margin-top: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.btn {
+  width: 70px;
+  height: 70px;
+  font-size: 28px;
+  border: none;
+  border-radius: 50%;
+  cursor: default;
+  color: white;
+}
+
+.btn:active {
+  opacity: 0.7;
+}
+
+.gray {
+  background-color: #a5a5a5;
+  color: black;
+}
+
+.orange {
+  background-color: #ff9500;
+}
+
+.dark {
+  background-color: #333333;
+}
+
+.zero {
+  width: 150px;
+  border-radius: 35px;
+  text-align: left;
+  padding-left: 28px;
+}
