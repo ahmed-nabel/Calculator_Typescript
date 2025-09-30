@@ -9,7 +9,7 @@ A basic, responsive calculator application built with **TypeScript**, following 
 
 ## 🚀 Live Demo
 
-👉 [Live Demo on GitHub Pages](https://your-username.github.io/Calculator_Typescript)
+👉 [Live Demo on GitHub Pages](https://ahmed-nabel.github.io/Calculator_Typescript/)
 
 ---
 
