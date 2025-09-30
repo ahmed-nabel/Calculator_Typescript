@@ -1,2 +1,2 @@
 # Calculator_Typescript
-This is simple calculator project revisited updated the using typescript &amp; design pattern [ facade ]
+This is simple calculator project revisited updated using typescript &amp; design pattern [ facade ]
