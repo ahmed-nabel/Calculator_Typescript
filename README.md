@@ -17,10 +17,8 @@ A basic, responsive calculator application built with **TypeScript**, following 
 
 - **HTML5**  
 - **CSS3**
-- **Bootstrap 5** – Responsive layout & grid system  
 - **TypeScript** – Static typing & structure  
 - **Webpack** – Bundling and asset pipeline  
-- **Font Awesome** – Icons (e.g., in footer)  
 - **Design Pattern** – Facade pattern applied to calculator logic
 
 ---
@@ -35,6 +33,3 @@ A basic, responsive calculator application built with **TypeScript**, following 
 - Clean UI and fully responsive
 
 ---
-
-## 🧱 Project Structure
-
